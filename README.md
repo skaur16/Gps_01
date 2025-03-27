@@ -43,7 +43,7 @@ current speed : 0km/h, max speed : 0km/h, average speed : 0km/h, acceleration : 
 
 
 
-![Logo](Assets/gpsIcon)
+![Logo](gpsIcon)
 
 
 
